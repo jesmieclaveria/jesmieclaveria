@@ -1,0 +1,29 @@
+<html>
+<head><title>ALFREDO First web page</title></head>
+
+<body>
+
+<h1><center><u><i>RESUME</u></i></center></h1>
+<hr>
+
+<b>Nema:</b><i>&nbspALFREDO S. MENDOZA,JR</i><p>
+<p><b>Age:</b><&nbsp16</i></p>
+<p><b>Status:</b><i>&nbspSingle</i><p>
+<p><b>Birthday:</b><i>&nbspJuly 17, 2007</i><p>
+<p><b>Father</b><i>&nbsplarry B. Mendoza</i></p 
+<p><b>Mother:</b><i>&nbspMary ana S. Mendoza</i></p>
+<p><b>Educational Background</b></p>
+<hr>
+<p><b>Elementary:</b><i>&nbspDulag Elementary School</i></P>
+<p><b>Secondary:</b><i>&nbspButuan City Comprehensive High School</i></p>
+<p><b>Tertiary:</b><i>&nbspCaraga State University(future)
+<hr>
+s
+
+
+
+
+
+
+</body
+</html>
